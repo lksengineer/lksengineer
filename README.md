@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working en desarrollo  backend con python  y Django
+- 🌱 I’m currently learning desarrollo backedn con python y django
+- 👯  Quiero aprender collaborar con proyectos de desarrollo de software
+- 🤔 I’m looking for help with  sistemas de inventario y contabilidad en python con django
+- 💬 Ask me about como comencé 
+- 📫 How to reach me:  freenlace.fullstack@gmail.com
+- ⚡ Fun fact: Me introduje en la informática sin querer.
