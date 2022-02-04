@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working en desarrollo  backend con python  y Django
-- 🌱 I’m currently learning desarrollo backedn con python y django
+- 🔭 I’m currently working in backend developer with python and django
+- 🌱 I’m currently learning backend developer with python and django
 - 👯  Quiero aprender collaborar con proyectos de desarrollo de software
 - 🤔 I’m looking for help with  sistemas de inventario y contabilidad en python con django
 - 💬 Ask me about como comencé 
