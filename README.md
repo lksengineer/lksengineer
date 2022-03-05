@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working in backend developer with python and django
 - 🌱 I’m currently learning backend developer with python and django
-- 👯  Quiero aprender collaborar con proyectos de desarrollo de software
-- 🤔 I’m looking for help with  sistemas de inventario y contabilidad en python con django
-- 💬 Ask me about como comencé 
+- 👯 I want to learn to collaborate with software development projects
+- 🤔 I’m looking for help with Inventory and accounting system in python with django
+- 💬 Ask me about me
 - 📫 How to reach me:  freenlace.fullstack@gmail.com
-- ⚡ Fun fact: Me introduje en la informática sin querer.
+- ⚡ Fun fact: I accidentally got into computers.
