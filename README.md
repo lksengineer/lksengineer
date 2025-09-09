@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
+
 - 🔭 I’m currently working in backend developer with python and django
 - 🌱 I’m currently learning backend developer with python and django
 - 👯 I want to learn to collaborate with software development projects
